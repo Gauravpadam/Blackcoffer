@@ -2,7 +2,7 @@
 ### Frontend Frameworks used:
 1. React/Next
 2. Tailwind
-3. MaterialUI
+3. MaterialUI (Devias boilerplate)
 
 ### Backend Frameworks:
 Flask
